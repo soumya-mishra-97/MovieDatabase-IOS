@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  MovieDatabase App
 //
-//  Created by Soumya Mishra on 29/03/25.
+//  Created by Soumya Ranjan Mishra on 29/03/25.
 //
 
 import SwiftUI
