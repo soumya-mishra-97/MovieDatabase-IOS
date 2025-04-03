@@ -13,8 +13,6 @@ class MovieViewModel: ObservableObject {
     @Published var filteredMovies: [Movie] = []
     @Published var searchText = ""
     
-    private var cancellables = Set<AnyCancellable>()
-    
     init() {
         loadMovies()
         setupSearch()
